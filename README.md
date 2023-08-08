@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Data scientist developer from India</h3>
+<h3 align="center">A passionate Data scientist 👨‍🔬 from India</h3>
 
 
 - 🌱 I’m currently learning **Data science Masters from PWSkills**
