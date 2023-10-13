@@ -10,6 +10,8 @@
 - ⚡ Fun fact **I am very good at Photoshop skills**
 
 <h3 align="left">Connect with me:</h3>
+<a href"https://www.linkedin.com/in/prashant-wadhave-48137625a/">Instagram</a>
+<a href"https://www.linkedin.com/in/prashant-wadhave-48137625a/">Linkedn</a>
 <p align="left">
 </p>
 
