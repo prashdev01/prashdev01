@@ -1,7 +1,7 @@
 <h3 align="center">A passionate Data scientist 👨‍🔬 from India</h3>
 
 
-- 🌱 I’m currently learning **Data science Masters from PWSkills**
+- 🌱 I’m currently learning **Data Science Masters from PWSkills**
 
 - 💬 Ask me about **python, Machine learning**
 
