@@ -1,7 +1,7 @@
 <h3 align="center" > Data Analyst with Python expertise, delivering 95% accurate analytics solutions while reducing data processing time by 90%.</h3>
 
 
-- 🌱 I’m currently learning **Data Science Masters from PWSkills**
+- 🌱 I’m currently upskilling my **Data Analyst skills** 
 
 - 💬 Ask me about **Data analytics, Data visualizations**
 
